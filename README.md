@@ -7,8 +7,6 @@ using the static site generator, [milkshake](https://github.com/schell/milkshake
 
 other helpful links
 -------------------
-[build status](https://travis-ci.org/schell/rinerscivally.com)
-
-[the site](http://rinerscivally.com)
-
-[markdown format](http://daringfireball.net/projects/markdown/syntax)
+* [build status](https://travis-ci.org/schell/rinerscivally.com)
+* [the site](http://rinerscivally.com)
+* [markdown format](http://daringfireball.net/projects/markdown/syntax)
