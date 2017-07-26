@@ -1,0 +1,6 @@
+- patterns:
+  - ^templates/.*\.html$
+  - ^site/.*$
+  commands:
+  - stack exec milkshake -- sitemap.yaml
+  - warp -d build/site
