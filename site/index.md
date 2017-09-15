@@ -8,10 +8,14 @@ Welcome to the official website of this L.A. Guitarist.
 
 ### Shows{#shows}
 
-* **02/08/2017** - Red, White and Blues w/ Teddy Shrader and The Generators
-* **03/08/2017** - Huntington Beach Pier w/ Luke Newman and Tainted Sanity
+* 09/15/2017 Aqus Café, Petaluma, CA
+* another thing
+* another thing
 
 ### News{#news}
+
+[test link](http://rinerscivally.com)
+![pic description](/img/cuarteto1.jpg)
 
 My new album ["Cuarteto del Sol" is available on CD Baby](https://store.cdbaby.com/cd/rinerscivally2).
 More music is available at my [CD Baby store](https://store.cdbaby.com/Artist/RinerScivally).
