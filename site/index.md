@@ -8,8 +8,8 @@ Welcome to the official website of this L.A. Guitarist.
 
 ### Shows{#shows}
 
-* 09/15/2017 Aqus Café, Petaluma, CA
-* 10/06/2017 Schell's House, Santa Rosa, CA
+* 09/28/17 PCC - Westerbeck Hall. Noon. Ed Czach, Riner Scivally, Blake White, Tim Pleasant
+* 09/29/17 Occidental College - Bird Studio. Noon. same as above
 
 ### News{#news}
 
