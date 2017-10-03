@@ -8,9 +8,9 @@ Welcome to the official website of this L.A. Guitarist.
 
 ### Shows{#shows}
 
-* 09/28/17 PCC - Westerbeck Hall. Noon. Ed Czach, Riner Scivally, Blake White, Tim Pleasant
-* 09/29/17 Occidental College - Bird Studio. Noon. same as above
-* 09/30/17 Pinocchios - 8PM - Johan Larchenweg, Riner Scivally, Teresa Sanchez, David Hocker
+* Every Friday - Fiore Market Cafe - 1000 Fremont Ave. South Pasadena 91030 - lunchtime
+* Every Friday - The Whale and Ale - 327 West 7th Street - San Pedro 90731 - 310-832-0363 - 7PM
+   The Paul Gormley Trio - Paul Gormley (bass), Roger Neumann (sax), Riner Scivally (guitar)
 
 ### News{#news}
 
