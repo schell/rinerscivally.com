@@ -19,7 +19,9 @@ Welcome to the official website of this L.A. Guitarist.
 My new album ["Cuarteto del Sol" is available on CD Baby](https://store.cdbaby.com/cd/rinerscivally2).
 More music is available at my [CD Baby store](https://store.cdbaby.com/Artist/RinerScivally).
 
-![el cuarteto uno](/img/cuarteto1.jpg){.img-thumbnail}  Ed Czach, Blake White, Nolan Shaheed, Tim Pleasant
+![Ed Czach, Blake White, Nolan Shaheed, Tim Pleasant](/img/cuarteto1.jpg){.img-thumbnail}  
+Ed Czach, Blake White, Nolan Shaheed, Tim Pleasant
 
 
-![el cuarteto dos](/img/cuarteto2.jpg){.img-thumbnail}  Ed, Riner, Blake,Tim
+![Ed, Riner, Blake,Tim](/img/cuarteto2.jpg){.img-thumbnail}  
+Ed, Riner, Blake,Tim
