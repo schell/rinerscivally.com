@@ -11,8 +11,10 @@ Welcome to the official website of this L.A. Guitarist.
 * Every Friday - Fiore Market Cafe - 1000 Fremont Ave. South Pasadena 91030 - 626-441-2280 - noon
 * Every Friday - The Whale and Ale - 327 West 7th Street - San Pedro 90731 - 310-832-0363 - 7PM
    The Paul Gormley Trio - Paul Gormley (bass), Roger Neumann (sax), Riner Scivally (guitar)
-* Thursday, November 9 -  POP Champagne Bar - 33 East Union Street, Pasadena - 626-795-1295 - 7 to 9:30PM
-    Robert Kyle (sax), Teresa Sanchez (bass) RS (guitar)
+* Friday, November 24 - A'Roma Coffee Roasters / 95 Fifth Street / Santa Rosa 95401 / 707-576-7756
+   8 to 10:30 PM / Riner Scivally (guitar), Brian Allen (bass)
+* Saturday, November 25 - Aqus Cafè / 189 H Street, Petaluma
+   7 to 9 PM  / Peter Estabrook (trumpet), RS (guitar), Brian Allen (bass)
 
 ### News{#news}
 
