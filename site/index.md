@@ -15,6 +15,8 @@ Welcome to the official website of this L.A. Guitarist.
    8 to 10:30 PM / Riner Scivally (guitar), Brian Allen (bass)
 * Saturday, November 25 - Aqus Cafè / 189 H Street, Petaluma
    7 to 9 PM  / Peter Estabrook (trumpet), RS (guitar), Brian Allen (bass)
+* Thursday, November 30 - The Blue Guitar - Arroyo Golf Course, South Pasadena - 7:30PM
+   Chuck Manning (sax), RS (guitar), Putter Smith (bass), Kendall Kay (drums)
 
 ### News{#news}
 
