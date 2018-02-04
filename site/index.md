@@ -11,8 +11,10 @@ Welcome to the official website of this L.A. Guitarist.
 * Every Friday - Fiore Market Cafe - 1000 Fremont Ave. South Pasadena 91030 - 626-441-2280 - noon
 * Every Friday - The Whale and Ale - 327 West 7th Street - San Pedro 90731 - 310-832-0363 - 7PM
    The Paul Gormley Trio - Paul Gormley (bass), Roger Neumann (sax), Riner Scivally (guitar)
-* Thursday, January 11 -  POP Champagne Bar / 33 East Union St. Pasadena 91103 - 626-795-1295 / 7 to 9:30PM
-    David Sills (sax), Riner Scivally (guitar), Mike Alvidrez (bass)
+* Thursday, February 8 -  POP Champagne Bar / 33 East Union St. Pasadena 91103 - 626-795-1295 / 7 to 9:30PM
+    John Gross (sax), RS (guitar), Putter Smith (bass)
+* Friday, February 9 - Eighteen Eighty One / 1881 East Washington Blvd. Pasadena 91104 - 626-314-2077 / 8 to 11PM
+    John Gross, RS, Putter Smith, Joel Taylor (drums)
 
 ### News{#news}
 
