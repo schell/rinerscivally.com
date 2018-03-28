@@ -11,10 +11,8 @@ Welcome to the official website of this L.A. Guitarist.
 * Every Friday - Fiore Market Cafe - 1000 Fremont Ave. South Pasadena 91030 - 626-441-2280 - noon
 * Every Friday - The Whale and Ale - 327 West 7th Street - San Pedro 90731 - 310-832-0363 - 7PM
    The Paul Gormley Trio - Paul Gormley (bass), Roger Neumann (sax), Riner Scivally (guitar)
-* Tuesday, March 13 - Edwin Mills (Equator) 22 Mills Place, Pasadena 91105 - 626-564-8656
-          RS- guitar, Tony Dumas (bass), Dean Koba (drums) 7 to 10:30
-* Thursday, March 15 - The Blue Guitar 1055 Lohman Lane (Arroyo Seco Golf Course) South Pasadena www.blueguitar.club
-           7 PM - RS (guitar), Chuck Manning (sax), Putter Smith (bass), Tim Pleasant (drums)
+* Every Tuesday - The Mixx 443 East Colorado Blvd. Pasadena 91101 - 626-500-0021
+         Robert Kyle (sax),  RS (guitar), Blake White (bass), Dean Koba (drums) 7 to 10:00 PM
 
 ### News{#news}
 
