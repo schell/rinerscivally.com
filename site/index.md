@@ -11,8 +11,7 @@ Welcome to the official website of this L.A. Guitarist.
 * Every Friday - Fiore Market Cafe - 1000 Fremont Ave. South Pasadena 91030 - 626-441-2280 - noon
 * Every Friday - The Whale and Ale - 327 West 7th Street - San Pedro 90731 - 310-832-0363 - 7PM
    The Paul Gormley Trio - Paul Gormley (bass), Roger Neumann (sax), Riner Scivally (guitar)
-* Every Tuesday - The Mixx 443 East Colorado Blvd. Pasadena 91101 - 626-500-0021
-         Robert Kyle (sax),  RS (guitar), Blake White (bass), Dean Koba (drums) 7 to 10:00 PM
+
 
 ### News{#news}
 
