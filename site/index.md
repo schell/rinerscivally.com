@@ -8,7 +8,7 @@ Welcome to the official website of this L.A. Guitarist.
 
 ### Shows{#shows}
 
-* Every Friday - Fiore Market Cafe - 1000 Fremont Ave. South Pasadena 91030 - 626-441-2280 - 12:30
+* Every Friday - Fiore Market Cafe - 1000 Fremont Ave. South Pasadena 91030 - 626-441-2280 - 12:30 lunchtime
 
 
 ### News{#news}
