@@ -22,3 +22,5 @@ Ed Czach, Blake White, Nolan Shaheed, Tim Pleasant
 
 ![Ed, Riner, Blake,Tim](/img/cuarteto2.jpg){.img-thumbnail}  
 Ed, Riner, Blake,Tim
+
+### [Contact me](/contact.html)
