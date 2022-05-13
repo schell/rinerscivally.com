@@ -22,7 +22,7 @@ jobs:
         key: ${{ runner.os }}-aws
 
     - name: install and build
-    - run: |
+      run: |
         cargo install mdbook
         mdbook build
 
