@@ -31,10 +31,11 @@ jobs:
         cargo install mdbook
         mdbook build
 
-    #- name: release
-    #  if: github.ref == 'refs/heads/master'
-    #  env:
-    #    AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-    #    AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-    #  run: |
-    #    aws s3 sync book s3://rinerscivally.com
+    - name: release
+      if: github.ref == 'refs/heads/master'
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        AWS_DEFAULT_REGION: 'us-west-1'
+      run: |
+        aws s3 sync book s3://rinerscivally.com
