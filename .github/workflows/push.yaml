@@ -1,0 +1,37 @@
+name: push
+on: push
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+
+    # cacheing
+    - name: Cache cargo deps
+      uses: actions/cache@v2
+      with:
+        path: |
+          ~/.cargo
+          target
+        key: cargo-deps-${{ hashFiles('**/Cargo.lock') }}
+        restore-keys: cargo-deps-
+
+    - name: Cache /usr/local/bin/aws
+      uses: actions/cache@v2
+      with:
+        path: /usr/local/bin/aws
+        key: ${{ runner.os }}-aws
+
+    - name: install and build
+    - run: |
+        cargo install mdbook
+        mdbook build
+
+    - name: release
+      if: github.ref == 'refs/heads/master'
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      run: scripts/push.sh rinerscivally.com
