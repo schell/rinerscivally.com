@@ -6,6 +6,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: recursive
+        lfs: false
+
     - name: Cache cargo deps
       uses: actions/cache@v2
       with:
